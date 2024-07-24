@@ -1,31 +1,12 @@
 [![INFORMS Journal on Computing Logo](https://INFORMSJoC.github.io/logos/INFORMS_Journal_on_Computing_Header.jpg)](https://pubsonline.informs.org/journal/ijoc)
 
-# [An efficient optimization model and tabu search-based global optimization approach for continuous p-dispersion problem](https://doi.org/10.1287/ijoc.2023.1290)
+# [An efficient optimization model and tabu search-based global optimization approach for continuous p-dispersion problem]
 
 This archive is distributed in association with the [INFORMS Journal on
 Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](LICENSE).
 
 The software and data in this repository are a snapshot of the software and data
-that were used in the research reported in the paper [An efficient optimization model and tabu search-based global optimization approach for continuous p-dispersion problem](https://doi.org/10.1287/ijoc.2023.1290) by L.J. Lai, Z.H. Lin, J.K. Hao, and Q.H. Wu. 
-
-## Cite
-
-To cite this material, please cite this repository, using the following DOI.
-
-[![DOI](https://zenodo.org/badge/585592740.svg)](https://zenodo.org/badge/latestdoi/585592740)
-
-Below is the BibTex for citing this version of the code.
-
-```
-@article{Dispersion2023,
-  author =        {X.J. Lai, Z.H. Lin, J.K. Hao, and Q.H. Wu},
-  publisher =     {INFORMS Journal on Computing},
-  title =         {{Circlepacking} Version v2022.0004},
-  year =          {2023},
-  doi =           {10.5281/zenodo.7579558},
-  url =           {https://github.com/INFORMSJoC/2023.0089},
-}  
-```
+that were used in the research reported in the paper [An efficient optimization model and tabu search-based global optimization approach for continuous p-dispersion problem] by L.J. Lai, Z.H. Lin, J.K. Hao, and Q.H. Wu. 
 
 ## Running the programs
 
@@ -41,7 +22,7 @@ _Usage:_
 - TimeLimit is the time limit (in seconds) for each run. 
 
 _Note: See [executable code for the circle packing](src/executable_code/circle_packing) directory for the details._
- ### The PESC problem
+ ### The point arrangement problem
 _Usage:_
 
 ./TSGOP    p    instance    NumberOfRuns   TimeLimit
@@ -56,7 +37,7 @@ _Note: See [executable code for the point arrangement](src/executable_code/point
 ## Materials
 
 This repository includes the following materials: 
-- _Benchmark instances used in our paper_ (See [the source codes](data) directory for the details.)
+- _Benchmark instances used in our paper_ (See [data](data) directory for the details.)
 - _Source codes of proposed TSGO algorithm respectively for the circle packing and point arrangement problems_ (See [the source codes](src/source_code) directory for the details.)
 - _Executable codes of proposed PBTS algorithm respectively for the PECS and PESC problems_ (See [the executable codes](src/executable_code) directory for the details.)
 - _Scripts used to replicate the experiments in the paper_ (See [scripts](scripts) directory for the details.)
