@@ -12,7 +12,6 @@ that were used in the research reported in the paper _An efficient optimization 
 
 To cite this material, please cite this repository, using the following DOI.
 
-[![DOI](https://zenodo.org/badge/585592740.svg)](https://zenodo.org/badge/latestdoi/585592740)
 
 Below is the BibTex for citing this version of the code.
 
@@ -20,10 +19,8 @@ Below is the BibTex for citing this version of the code.
 @article{dispersion2023,
   author =        {X.J. Lai, Z.H. Lin, J.K. Hao, and Q.H. Wu},
   publisher =     {INFORMS Journal on Computing},
-  title =         {{Circlepacking} Version v2022.0004},
   year =          {2023},
-  doi =           {10.5281/zenodo.7579558},
-  url =           {https://github.com/INFORMSJoC/2022.0004},
+  url =           {https://github.com/INFORMSJoC/2023.0089},
 }  
 ```
 
