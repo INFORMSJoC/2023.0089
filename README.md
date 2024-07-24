@@ -20,13 +20,13 @@ Below is the BibTex for citing this version of the code.
   author =        {X.J. Lai, Z.H. Lin, J.K. Hao, and Q.H. Wu},
   publisher =     {INFORMS Journal on Computing},
   year =          {2023},
-  url =           {https://github.com/INFORMSJoC/2023.0089},
+  url =           {https://github.com/INFORMSJoC/2022.0004},
 }  
 ```
 
 ## Running the programs
 
-To generate the executable codes (i.e., TSGOC and TSGOP) of TSGO algorithm respectively for the circle packing and point arrangement problems, one can run the script files 'TSGO.sh' in the [scripts](scripts) or [source code](src/source_code) directory.
+To generate the executable codes (i.e., TSGOC and TSGOP) of TSGO algorithm respectively for the circle packing and point arrangement problems, one can run the script file 'TSGO.sh' in the [scripts](scripts) or [source code](src/source_code) directory.
 
  ### The circle packing problem 
 _Usage:_ 
@@ -43,7 +43,7 @@ _Usage:_
 
 ./TSGOP    p    instance    NumberOfRuns   TimeLimit
 
-- p is the number of unit spheres
+- p is the number of dispersion points
 - 'instance' denotes the region to be packed
 - NumberOfRuns is the number of times of running the PBTSPESC program
 - TimeLimit is the time limit (in seconds) for each run
@@ -55,9 +55,9 @@ _Note: See [executable code for the point arrangement](src/executable_code/point
 This repository includes the following materials: 
 - _Benchmark instances used in our paper_ (See [data](data) directory for the details.)
 - _Source codes of proposed TSGO algorithm respectively for the circle packing and point arrangement problems_ (See [the source codes](src/source_code) directory for the details.)
-- _Executable codes of proposed PBTS algorithm respectively for the PECS and PESC problems_ (See [the executable codes](src/executable_code) directory for the details.)
+- _Executable codes of proposed TSGO algorithm respectively for the circle packing and point arrangement problems_ (See [the executable codes](src/executable_code) directory for the details.)
 - _Scripts used to replicate the experiments in the paper_ (See [scripts](scripts) directory for the details.)
-- _Matlab procedure to show the geometrical configurations of solutions of the circle packing problem_ (See [matlab](src/matlab) directory for the details.)
+- _Matlab procedure to show the geometrical configurations of solutions of the circle packing problem_ (See [matlab](src/matlab_picture) directory for the details.)
 - _Detailed computational results and parameter analysis_ (See [the detailed results](results/detailed_results) directory for the details.)
 - _Best solutions found in the experiments_ (See [the best solutions](results/best_solutions) directory for the details.)
 
