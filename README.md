@@ -45,7 +45,7 @@ _Usage:_
 
 - p is the number of dispersion points
 - 'instance' denotes the region to be packed
-- NumberOfRuns is the number of times of running the PBTSPESC program
+- NumberOfRuns is the number of times of running the TSGOP program
 - TimeLimit is the time limit (in seconds) for each run
 
 _Note: See [executable code for the point arrangement](src/executable_code/point_arrangement) directory for the details._
