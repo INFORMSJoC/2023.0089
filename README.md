@@ -20,7 +20,7 @@ Below is the BibTex for citing this version of the code.
   author =        {X.J. Lai, Z.H. Lin, J.K. Hao, and Q.H. Wu},
   publisher =     {INFORMS Journal on Computing},
   year =          {2023},
-  url =           {https://github.com/INFORMSJoC/2022.0004},
+  url =           {https://github.com/INFORMSJoC/2023.0089},
 }  
 ```
 
