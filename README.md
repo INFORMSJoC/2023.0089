@@ -11,6 +11,7 @@ that were used in the research reported in the paper _An efficient optimization 
 ## Cite
 
 To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
+
 https://doi.org/10.1287/ijoc.2023.0089
 
 https://doi.org/10.1287/ijoc.2023.0089.cd
