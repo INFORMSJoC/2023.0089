@@ -10,14 +10,16 @@ that were used in the research reported in the paper _An efficient optimization 
 
 ## Cite
 
-To cite the contents of this repository, please cite the paper using its DOI and cite this repository using the following DOI:
+To cite the contents of this repository, please cite both the paper and this repo, using their respective DOIs.
+https://doi.org/10.1287/ijoc.2023.0089
+
 https://doi.org/10.1287/ijoc.2023.0089.cd
 
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{Dispersion,
-  author =        {Xiangjing Lai and Zhenheng Lin and Jin-Kao Hao and Qinghua Wu},
+@misc{Dispersion2024,
+  author =        {Xiangjing Lai, Zhenheng Lin, Jin-Kao Hao and Qinghua Wu},
   publisher =     {INFORMS Journal on Computing},
   title =         {An efficient optimization model and tabu search-based global optimization approach for continuous p-dispersion problem},
   year =          {2024},
